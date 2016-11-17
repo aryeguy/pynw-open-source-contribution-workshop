@@ -34,7 +34,8 @@ Example:
   
     $ python yt_happy_or_sad.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
-List of projects to contribute to:
+List of projects to contribute to and useful links:
 ----------------------------------
 * https://github.com/vinta/awesome-python
 * https://github.com/servo/servo
+* https://openhatch.org/
