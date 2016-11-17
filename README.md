@@ -18,7 +18,7 @@ Install requirements:
 
 Once everything is setup you can begin contributing, a list of issues can be found [here](https://github.com/c-rhodes/pynw-open-source-contribution-workshop/issues)
 
-After fixing the issues you can commit your changes:
+After fixing an issue you can commit your changes:
 
     $ git commit am -"Fixed XXX"
     
