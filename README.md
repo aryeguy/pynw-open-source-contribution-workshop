@@ -1,6 +1,6 @@
 # pynw-open-source-contribution-workshop
 
-This repository contains a Python script yt_happy_or_sad.py that takes a Youtube url as an argument and counts the happy and sad words.
+The idea of this workshop is to introduce newcomers to open-source contribution with a focus on Python of course. This repository contains a Python script yt_happy_or_sad.py that takes a Youtube url as an argument and counts the happy and sad words. The script is quite rough and there's several issues to fix that have been reported in the issues [tab](https://github.com/c-rhodes/pynw-open-source-contribution-workshop/issues). The focus is less on the code and more on the overall process of contributing. The bottom of this README contains some useful links to guides and other projects that can be contributed to. 
 
 Contributing
 ------------
