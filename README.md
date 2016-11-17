@@ -4,6 +4,8 @@ This repository contains a Python script yt_happy_or_sad.py that takes a Youtube
 
 Contributing
 ------------
+Setup Git if you haven't already: https://help.github.com/articles/set-up-git/
+
 First create a fork of this repository by clicking the Fork button at the top right of this Github page. This will create a copy of this repository under your user account.
 
 More information on forking [here](https://help.github.com/articles/fork-a-repo/)
@@ -15,6 +17,8 @@ Clone the repository, you should be able to find the link by clicking the Clone 
 Install requirements:
 
     $ pip install -r requirements.txt
+
+If you're using Python 2 >=2.7.9 or Python 3 >=3.4 then pip should already be installed, if not you can get pip from [here]( https://pip.pypa.io/en/stable/installing/)
 
 Once everything is setup you can begin contributing, a list of issues can be found [here](https://github.com/c-rhodes/pynw-open-source-contribution-workshop/issues)
 
