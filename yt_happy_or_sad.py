@@ -10,7 +10,7 @@ SAD_WORDS = ['hate','hated','dislike','disliked','awful','terrible','bad','painf
 def scrape_video_comments(video_url):
     """Scrape the comments from a Youtube video and return them as a list."""
     response = requests.get(COMMENTS_API_URL.format(video_url=video_url))
-    soup = BeautifulSoup(response.content)
+    soup = BeautifulSoup(response.content, "html.parser")
     comments = soup.findAll('div', {'class': 'Ct'})
     comments = [comment.text for comment in comments if comment not in ['', ' ']]
     return comments
