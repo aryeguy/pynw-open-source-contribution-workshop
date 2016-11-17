@@ -33,3 +33,8 @@ Usage
 Example:
   
     $ python yt_happy_or_sad.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+List of projects to contribute to:
+----------------------------------
+* https://github.com/vinta/awesome-python
+* https://github.com/servo/servo
