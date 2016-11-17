@@ -39,3 +39,8 @@ List of projects to contribute to and useful links:
 * https://github.com/vinta/awesome-python
 * https://github.com/servo/servo
 * https://openhatch.org/
+
+From Dave Jones:
+* https://github.com/waveform80/compoundpi/issues
+* https://github.com/PiNet/PiNet/issues
+* https://github.com/RPi-Distro/python-gpiozero/issues
