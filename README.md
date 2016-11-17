@@ -18,6 +18,16 @@ Install requirements:
 
 Once everything is setup you can begin contributing, a list of issues can be found [here](https://github.com/c-rhodes/pynw-open-source-contribution-workshop/issues)
 
+After fixing the issues you can commit your changes:
+
+    $ git commit am -"Fixed XXX"
+    
+Once committed the changes can be pushed:
+
+    $ git push
+
+The final step is to create a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+
 Usage
 -----
 Example:
