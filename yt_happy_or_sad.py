@@ -3,8 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 
 COMMENTS_API_URL = 'https://plus.googleapis.com/u/0/_/widget/render/comments?first_party_property=YOUTUBE&href={video_url}'
-HAPPY_WORDS = ['love','loved','like','liked','awesome','amazing','good','great','excellent']
-SAD_WORDS = ['hate','hated','dislike','disliked','awful','terrible','bad','painful','worst'] 
+HAPPY_WORDS = set(['love','loved','like','liked','awesome','amazing','good','great','excellent'])
+SAD_WORDS = set(['hate','hated','dislike','disliked','awful','terrible','bad','painful','worst'])
 
 
 def scrape_video_comments(video_url):
